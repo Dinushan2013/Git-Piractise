@@ -1,0 +1,15 @@
+
+h1{
+    font-family: "Playwrite US Trad Guides", cursive;
+    font-size: 200px;
+    color: aquamarine;
+    text-align: center;
+
+}
+
+div{
+    margin-top: 500px;
+    background-image: url(Eating\ Gorilla.jpeg);
+    height: 1000px;
+    width: 2000px;
+}
